@@ -8,7 +8,7 @@ HTA
 CDI VVI St Jude Medical 
 Estuvo con dolor precordial por guardia ECG sinusal BCRD EV aislada sin signos isquemicos 
 Troponina - 
-tx carvedilol 3,125 amiodarona 200 aas
+tx carvedilol 3,125x2 amiodarona 200 losacor 25 aas
 
 
 aumento carvedilol 3,125x2 agrego losacor 25 
