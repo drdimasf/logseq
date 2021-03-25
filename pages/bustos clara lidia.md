@@ -7,11 +7,9 @@ Chagas
 HTA 
 CDI VVI St Jude Medical 
 Estuvo con dolor precordial por guardia ECG sinusal BCRD EV aislada sin signos isquemicos 
-Troponina - 
-tx carvedilol 3,125x2 amiodarona 200 losacor 25 aas
+Troponina -
+## tx Amiodarona valsartan 40x2 carvedilol 3,125 aas
 
-
-aumento carvedilol 3,125x2 agrego losacor 25 
 
 Tuvo traumatismo hace 1 semana con dolor en brazo izquierdo y región de CDI (no se observa hematoma ni flogosis en la zona)
 
