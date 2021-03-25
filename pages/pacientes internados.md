@@ -1,11 +1,9 @@
 ---
-title: Pacientes internados
+title: Pacientes Internados
 ---
 
-## Romagosa
-### Agüero Carmen Ovidio
-### Pañone Irene
-## HET
-### Bazan Dardo
-## HSR
-###
+#### Romagosa
+##### Agüero Carmen Ovidio
+##### Pañone Irene
+#### HET
+##### Bazán Dardo
