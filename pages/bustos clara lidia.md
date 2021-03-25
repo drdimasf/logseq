@@ -9,10 +9,6 @@ CDI VVI St Jude Medical
 Estuvo con dolor precordial por guardia ECG sinusal BCRD EV aislada sin signos isquemicos 
 Troponina -
 ## tx Amiodarona valsartan 40x2 carvedilol 3,125 aas
-
- Col 178 Gl 91 ur 48 Cr 0,61 TG 64 
-
-Agrego anemidox ferrum esta tomando valsartan 40 en lugar de losartan
 ## ECO MIOCARDIOPATIA DILATADA
 DILATACION SEVERA DE LA AURICULA IZQUIERDA
 AQUINESIA INFEIOR BASAL E INFEROLATERAL MEDIO BASAL CON FUNCIÓN SISTOLICA DEL VI LEVEMENTE DISMINUIDA
