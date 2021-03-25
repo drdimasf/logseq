@@ -10,13 +10,7 @@ Estuvo con dolor precordial por guardia ECG sinusal BCRD EV aislada sin signos i
 Troponina -
 ## tx Amiodarona valsartan 40x2 carvedilol 3,125 aas
 
-
-Tuvo traumatismo hace 1 semana con dolor en brazo izquierdo y región de CDI (no se observa hematoma ni flogosis en la zona)
-
-TA 100/70 FC 60 lpm 
-Sin signos congestivos
-
-Laboratorio Htc 34 Hb 11 GB 980 Tiroides OK Col 178 Gl 91 ur 48 Cr 0,61 TG 64 
+ Col 178 Gl 91 ur 48 Cr 0,61 TG 64 
 
 Agrego anemidox ferrum esta tomando valsartan 40 en lugar de losartan
 ## ECO MIOCARDIOPATIA DILATADA
