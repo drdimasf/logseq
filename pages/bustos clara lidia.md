@@ -10,12 +10,7 @@ Estuvo con dolor precordial por guardia ECG sinusal BCRD EV aislada sin signos i
 Troponina - 
 tx carvedilol 3,125 amiodarona 200 aas
 
-TA 145/80 FC 70 lpm 
-R1R" NF ing yug - edema - 
-MV+ sin ruidos agregados 
-Vigil OTE sin signos meningeos ni de foco
 
-sto lab y eco 
 aumento carvedilol 3,125x2 agrego losacor 25 
 
 Tuvo traumatismo hace 1 semana con dolor en brazo izquierdo y región de CDI (no se observa hematoma ni flogosis en la zona)
