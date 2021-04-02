@@ -19,6 +19,9 @@ title: Arritmias
 - QRS Angosto
 - QRS Ancho
 ### QRS Angosto
+:PROPERTIES:
+:heading: true
+:END:
 #### Regulares
 ##### Taquicardia sinusal
 ##### Aleteo auricular
