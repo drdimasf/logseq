@@ -9,6 +9,7 @@ title: Arritmias
 ### QRS Angosto
 #### Regulares
 ##### Taquicardia sinusal
+##### Aleteo auricular
 ##### Taquicardia paroxística suprevntricular
 ###### TRNAV
 ###### TRAV
