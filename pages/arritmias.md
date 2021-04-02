@@ -22,7 +22,8 @@ title: Arritmias
 ##
 ## - Taquiarritmias
 	- QRS Angosto
-		- Regulares
+##
+## - Regulares
 			- Taquicardia sinusal
 				- Aleteo auricular
 				- Taquicardia paroxística supraventricular
