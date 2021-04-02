@@ -12,6 +12,16 @@ CURF 2021
 :PROPERTIES:
 :heading: true
 :END:
+## 
+``` mermaid
+ graph LR
+	
+	Arritmias-->QRS.Angosto
+	Arritmias --> QRS.Ancho
+	QRS.Angosto-->Regulares
+	QRS.Angosto-->Irregulares
+
+ ```
 ## {{embed [[Clasificacion arrtimias]] }}
 ## Taquiarritmias
 :PROPERTIES:
