@@ -2,8 +2,11 @@
 title: Arritmias
 ---
 
-## Arritmias
+## Arritmias Supraventriculares
 :PROPERTIES:
 :heading: true
 :END:
-- Dimas Farías
+ Dimas Farías
+CURF 2021
+## Arritmia
+##
