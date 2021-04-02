@@ -3,6 +3,9 @@ title: Arritmias
 ---
 
 ## Bradiarritmias
+:PROPERTIES:
+:heading: true
+:END:
 ### Enfermedad del nodulo sinusal
 ### Bloqueo AV
 ## Taquiarritmias
