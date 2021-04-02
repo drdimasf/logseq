@@ -12,7 +12,7 @@ CURF 2021
 :PROPERTIES:
 :heading: true
 :END:
-## /em
+## {{embed [[Clasificacion arrtimias]] }}
 ## Taquiarritmias
 :PROPERTIES:
 :heading: true
