@@ -10,7 +10,7 @@ title: Arritmias
 #### Regulares
 ##### Taquicardia sinusal
 ##### Aleteo auricular
-##### Taquicardia paroxística suprevntricular
+##### Taquicardia paroxística supraventricular
 ###### TRNAV
 ###### TRAV
 ###### TA
