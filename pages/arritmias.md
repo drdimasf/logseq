@@ -9,5 +9,7 @@ title: Arritmias
  Dimas Farías
 CURF 2021
 ## Arritmias
-## Arritmias - Supraventriculares
+## Arritmias
+- Bradiarritmais
+## Supraventriculares
 - Ventriculares
