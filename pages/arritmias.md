@@ -10,6 +10,8 @@ title: Arritmias
 :PROPERTIES:
 :heading: true
 :END:
+#### Enfermedad del nodulo sinusal
+####
 #### Bloqueo AV
 ## Taquiarritmias
 ### QRS Angost   o
