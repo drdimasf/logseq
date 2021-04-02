@@ -12,9 +12,6 @@ title: Arritmias
 :END:
 - Enfermedad del nódulo sinusakl
 - Bloqueo AV
-#### Enfermedad del nodulo sinusal
-####
-#### Bloqueo AV
 ## Taquiarritmias
 ### QRS Angost   o
 #### Regulares
