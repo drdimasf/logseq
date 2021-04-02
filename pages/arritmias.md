@@ -13,6 +13,9 @@ title: Arritmias
 - Enfermedad del nódulo sinusakl
 - Bloqueo AV
 ## Taquiarritmias
+:PROPERTIES:
+:heading: true
+:END:
 - QRS Angosto
 - QRS Ancho
 ### QRS Angosto
