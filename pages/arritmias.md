@@ -10,7 +10,8 @@ title: Arritmias
 :PROPERTIES:
 :heading: true
 :END:
-- Enfermedad delo
+- Enfermedad del nódulo sinusakl
+- Bloqueo AV
 #### Enfermedad del nodulo sinusal
 ####
 #### Bloqueo AV
