@@ -10,6 +10,7 @@ title: Arritmias
 CURF 2021
 ## Arritmias
 ## Arritmias
-- Bradiarritmais
-## Supraventriculares
+- Bradiarritmias
+- Taquiarritmias
+- Supraventriculares
 - Ventriculares
