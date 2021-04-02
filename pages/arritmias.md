@@ -12,12 +12,7 @@ CURF 2021
 :PROPERTIES:
 :heading: true
 :END:
-## Arritmias
-:PROPERTIES:
-:heading: true
-:END:
-- Bradiarritmias
-- Taquiarritmias
+##
 ## Taquiarritmias
 :PROPERTIES:
 :heading: true
