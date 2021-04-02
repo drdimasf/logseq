@@ -6,8 +6,9 @@ title: Arritmias
 :PROPERTIES:
 :heading: true
 :END:
-### Enfermedad del nodulo sinusal
-### Bloqueo AV
+### Bradiarrimias
+#### Enfermedad del nodulo sinusal
+#### Bloqueo AV
 ## Taquiarritmias
 ### QRS Angosto
 #### Regulares
