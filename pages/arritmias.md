@@ -10,5 +10,5 @@ title: Arritmias
 #### Regulares
 #### Irregulares
 ##### FA
-##### FA con
+##### FA / TA con conducción AV variable
 ### QRS ancho
