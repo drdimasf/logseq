@@ -8,6 +8,11 @@ title: Arritmias
 ## Taquiarritmias
 ### QRS Angosto
 #### Regulares
+##### Taquicardia sinusal
+##### Taquicardia paroxística suprevntricular
+###### TRNAV
+###### TRAV
+###### TA
 #### Irregulares
 ##### FA
 ##### FA / TA con conducción AV variable
