@@ -20,8 +20,9 @@ title: Arritmias
 ### QRS ancho
 ##
 ##
-## - Taquiarritmias
-	- QRS Angosto
+## Taquiarritmias
+- QRS Angosto
+- QRS Ancho
 ##
 ## - Regulares
 			- Taquicardia sinusal
