@@ -6,7 +6,7 @@ title: Arritmias
 :PROPERTIES:
 :heading: true
 :END:
-### Bradiarrimias
+### Bradiarritmias
 :PROPERTIES:
 :heading: true
 :END:
