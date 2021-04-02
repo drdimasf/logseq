@@ -19,5 +19,8 @@ CURF 2021
 - Bradiarritmias
 - Taquiarritmias
 ## Taquiarritmias
+:PROPERTIES:
+:heading: true
+:END:
 - Supraventriculares
 - Ventriculares
