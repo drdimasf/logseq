@@ -7,8 +7,9 @@ title: Arritmias supraventriculares
 ### Tienen complejo estrecho
 #### miden menos de 120 ms
 ### Taquicardias de la unión AV
-## Sintomas
-### Palpitaciones
+## Sintomasf
+###
+### Pa1lpitaciones
 :PROPERTIES:
 :id: 60453a8c-5dcd-4fcf-994f-c6819b90ba35
 :END:
