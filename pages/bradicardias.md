@@ -12,4 +12,4 @@ FC < 60 lpm
 :heading: true
 :END:
 - Enfermedad del nódulo sinusal
-Bloqueo AV
+- Bloqueo AV
