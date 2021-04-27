@@ -7,3 +7,5 @@ title: Bradicardias
 :heading: true
 :END:
 FC < 60 lpm
+### Mecanismos 
+Enfermedad del nódulo sinusal
