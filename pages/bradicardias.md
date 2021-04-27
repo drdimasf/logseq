@@ -8,5 +8,5 @@ title: Bradicardias
 :END:
 FC < 60 lpm
 ## Mecanismos 
-Enfermedad del nódlo sinusal
-Bloq
+Enfermedad del nódulo sinusal
+Bloqueo AV
