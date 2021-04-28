@@ -2,7 +2,10 @@
 title: Pacientes problema
 ---
 
-## LATER Floridia Francisco Control en HET
+## DONE Floridia Francisco Control en HET
+:PROPERTIES:
+:done: 1619577781587
+:END:
 ## DONE Piantino Cecilia
 :PROPERTIES:
 :later: 1616619410600
