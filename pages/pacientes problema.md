@@ -15,8 +15,9 @@ title: Pacientes problema
 :PROPERTIES:
 :later: 1616619454092
 :END:
-## LATER Bebilacqua Pedido CDI DDD lo hizo MM APM Fabiola
+## DONE Bebilacqua Pedido CDI DDD lo hizo MM APM Fabiola
 :PROPERTIES:
 :later: 1617044596320
+:done: 1619577777396
 :END:
 ##
