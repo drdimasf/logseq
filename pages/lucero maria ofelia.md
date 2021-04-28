@@ -6,7 +6,11 @@ title: Lucero Maria Ofelia
 ## DNI 5671700
 ## Edad 70 años
 ## mail: estrellalucero508@gmail.com
-## Tx Alplax- Alplazolan 1mg x 30.
+## Tx 
+:PROPERTIES:
+:later: 1619577185125
+:END:
+Alplax- Alplazolan 1mg x 30.
 Frenaler Cort.
 Clonagin sublingual.
 Actron 400.
