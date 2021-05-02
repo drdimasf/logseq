@@ -76,4 +76,4 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
- :date-formatter "yyyy-MM-dd EEEE"}
+ :date-formatter "yyyy-MM-dd"}
