@@ -7,7 +7,8 @@ title: tutorial
 ### **Negrita**
 ### ~~Tachado ~~
 ### subrayado
-## 
+## https://www.tablesgenerator.com/markdown_tables
+##
 |tabla|nombre|edad|
 |----|----|---|
 |hays|hk|lkjj|
