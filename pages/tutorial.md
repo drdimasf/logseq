@@ -8,11 +8,8 @@ title: tutorial
 ### ~~Tachado ~~
 ### subrayado
 ##
-|tabla|juas|
-|----|----|
-|hays|hk|
-|jjasu|jh|
-##
-## |
-##
+|tabla|juas|jasy|
+|----|----|---|
+|hays|hk|lkjj|
+|jjasu|jh|kjhkj|
 ##
