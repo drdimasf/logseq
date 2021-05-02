@@ -29,4 +29,4 @@ title: Rutina matutina
 :END:
 ## 
 <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+	title="A cute kitten" width="550" height="400" />
