@@ -34,4 +34,3 @@ title: Rutina matutina
 ##
 ## 😂
 #
-## :joy:
