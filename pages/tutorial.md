@@ -8,8 +8,8 @@ title: tutorial
 ### ~~Tachado ~~
 ### subrayado
 ## https://www.tablesgenerator.com/markdown_tables
-##
-|tabla|nombre|edad|
+### 
+|nombre|edad|
 |----|----|---|
 |hays|hk|lkjj|
 |jjasu|jh|kjhkj|
