@@ -7,8 +7,8 @@ title: tutorial
 ### **Negrita**
 ### ~~Tachado ~~
 ### subrayado
-##
-|tabla|juas|jasy|
+## 
+|tabla|nombre|edad|
 |----|----|---|
 |hays|hk|lkjj|
 |jjasu|jh|kjhkj|
