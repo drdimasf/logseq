@@ -22,7 +22,7 @@ title: Rutina matutina
 :PROPERTIES:
 :todo: 1616365253223
 :background-ima
-## Meditación
+## 
 :PROPERTIES:
 :todo: 1616365253223
 :background-image: https://images.unsplash.com/photo-1498855926480-d98e83099315
