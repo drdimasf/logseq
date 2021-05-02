@@ -8,3 +8,8 @@ title: tutorial
 ### ~~Tachado ~~
 ### subrayado
 ##
+|tabla||
+|---|---|
+|hays|hk|
+##
+##
