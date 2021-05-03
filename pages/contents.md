@@ -5,5 +5,3 @@
 #### 3. You can also put many different things, depending on your personal workflow
 ## [[Help]]
 ## [[Rutina matutina]]
-#### 3. You can also put many different things, depending on your personal workflo
-#### 3. You can also put many different things, depending on your personal workflow
