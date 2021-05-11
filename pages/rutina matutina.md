@@ -31,6 +31,7 @@ title: Rutina matutina
 <img src="https://images.unsplash.com/photo-1498855926480-d98e83099315" alt="Kitten"
 	title="A cute kitten" width="550" height="500" />
 ## Ejercicio
-## ![Kitten](https://images.unsplash.com/photo-1498855926480-d98e83099315)
+## 💪
+
 ## 😂
 #
