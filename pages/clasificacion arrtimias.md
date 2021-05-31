@@ -2,9 +2,7 @@
 title: Clasificacion arrtimias
 ---
 
-## Arritmias
-:PROPERTIES:
-:heading: true
-:END:
+- Arritmias
+  heading:: true
 - Bradiarritmias
 - Taquiarritmias
