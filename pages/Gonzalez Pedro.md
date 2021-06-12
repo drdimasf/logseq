@@ -1,7 +1,6 @@
--
+- Datos Personales
   collapsed:: false
-	- Datos Personales
-	  Edad: 
-	  Sexo: 
-	  DNI: 
-	  TE:
+  Edad: 
+  Sexo: 
+  DNI: 
+  TE:
