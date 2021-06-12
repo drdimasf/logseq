@@ -1,3 +1,0 @@
-- Nombre: 
-  collapsed:: false
--
