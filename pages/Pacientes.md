@@ -6,5 +6,3 @@
 	  Sexo: 
 	  DNI: 
 	  TE:
-	- Edad:
-	- Se
