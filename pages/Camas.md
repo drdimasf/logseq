@@ -1,4 +1,5 @@
 - SR
+  collapsed:: true
 	- SR 1
 		-
 	- SR 2
@@ -9,7 +10,9 @@
 	- CF 2
 		-
 	- CF 3
+		-
 	- CF 4
+		-
 - Box 1
 	- Cama A
 	- Cama B
