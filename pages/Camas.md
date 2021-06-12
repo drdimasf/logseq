@@ -15,4 +15,3 @@
 - Respiratorio
 	- Cama A
 	- Cama B
-	-
