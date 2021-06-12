@@ -1,11 +1,11 @@
 - SR
-  collapsed:: true
+  collapsed:: false
 	- SR 1
 		-
 	- SR 2
 		-
 - Cama Fria
-  collapsed:: true
+  collapsed:: false
 	- CF 1
 		-
 	- CF 2
@@ -15,7 +15,7 @@
 	- CF 4
 		-
 - Box 1
-  collapsed:: true
+  collapsed:: false
 	- Cama A
 		-
 	- Cama B
@@ -27,6 +27,7 @@
 	- Cama B
 		-
 - Respiratorio
+  collapsed:: false
 	- Cama A
 		-
 	- Cama B
