@@ -1,6 +1,6 @@
-- Templates
-  collapsed:: false
-  template:: Paciente
+collapsed:: false
+template:: Paciente
+
 	- Datos Personales
 	  Edad: 
 	  Sexo: 
