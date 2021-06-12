@@ -1,2 +1,3 @@
-collapsed:: false
-template:: Paciente
+- Nombre: 
+  collapsed:: false
+-
