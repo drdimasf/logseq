@@ -37,7 +37,10 @@
 	  background-color:: #264c9b
 		-
 - Respiratorio
+  background-color:: #787f97
 	- Cama A
+	  background-color:: #787f97
 		-
 	- Cama B
+	  background-color:: #787f97
 		-
