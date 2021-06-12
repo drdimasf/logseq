@@ -9,4 +9,10 @@
 - Box 1
 	- Cama A
 	- Cama B
--
+- Box 2
+	- Cama A
+	- Cama B
+- Respiratorio
+	- Cama A
+	- Cama B
+	-
