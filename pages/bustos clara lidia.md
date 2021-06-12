@@ -3,6 +3,7 @@ title: Bustos Clara Lidia
 ---
 
 - Arritmia ventricular 
+  collapsed:: true
   Chagas 
   HTA 
   CDI VVI St Jude Medical 
