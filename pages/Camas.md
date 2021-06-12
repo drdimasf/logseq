@@ -21,8 +21,13 @@
 	- Cama B
 		-
 - Box 2
+  collapsed:: false
 	- Cama A
+		-
 	- Cama B
+		-
 - Respiratorio
 	- Cama A
+		-
 	- Cama B
+		-
