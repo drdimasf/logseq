@@ -1,2 +1,7 @@
 - Nombre:
-	- Datos Personales
+	- Datos Personales 
+	  Edad: 
+	  Sexo: 
+	  DNI: 
+	  TE:
+	- APP
