@@ -1,4 +1,5 @@
 - Nombre:
+  template:: Paciente
 	- Datos Personales 
 	  Edad: 
 	  Sexo: 
