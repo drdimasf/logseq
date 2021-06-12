@@ -29,9 +29,12 @@
 	  background-color:: #533e7d
 		-
 - Box 2
+  background-color:: #264c9b
 	- Cama A
+	  background-color:: #264c9b
 		-
 	- Cama B
+	  background-color:: #264c9b
 		-
 - Respiratorio
 	- Cama A
