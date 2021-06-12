@@ -6,4 +6,7 @@
 	- CF 2
 	- CF 3
 	- CF 4
-- B
+- Box 1
+	- Cama A
+	- Cama B
+-
