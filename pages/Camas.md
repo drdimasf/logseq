@@ -21,9 +21,12 @@
 	  background-color:: #978626
 		-
 - Box 1
+  background-color:: #533e7d
 	- Cama A
+	  background-color:: #533e7d
 		-
 	- Cama B
+	  background-color:: #533e7d
 		-
 - Box 2
 	- Cama A
