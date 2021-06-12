@@ -5,6 +5,7 @@
 	- SR 2
 		-
 - Cama Fria
+  collapsed:: true
 	- CF 1
 		-
 	- CF 2
@@ -14,8 +15,11 @@
 	- CF 4
 		-
 - Box 1
+  collapsed:: true
 	- Cama A
+		-
 	- Cama B
+		-
 - Box 2
 	- Cama A
 	- Cama B
