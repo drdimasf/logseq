@@ -1,3 +1,0 @@
-- Procemidimientos
-	- [[Fernandez Elvio Benancio]] implante de MPD DDD St Jude [[2021-06-18]]
-	-
