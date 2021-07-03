@@ -1,8 +1,7 @@
-- Nombre:
-	- Datos Personales 
-	  Edad: 
-	  Sexo: 
-	  DNI: 
-	  TE:
+- Datos Personales 
+  Edad: 
+  Sexo: 
+  DNI: 
+  TE:
 	- APP
 	- Tratamiento
