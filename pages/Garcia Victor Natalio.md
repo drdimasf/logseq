@@ -1,2 +1,1 @@
-- ![2021_09_21_ECG Garcia.jpg](https://cdn.logseq.com/%2Fd9d393b2-1b8e-4d17-92c9-31381bf807cdc946394c-8b5b-4274-8528-3c1d745ca5ea2021_09_21_ECG%20Garcia.jpg?Expires=4785829031&Signature=T6cS5fniWGY7VQLVgSoM~Z8soewJtBbobDXezGrCskcVphSeVwVSaUZJuX9vjKqGsCuM18uLSz8eduYHHdsAE6vJDnebq4Kk93JmOKiuqGHQOmM-BIbhOEQxd3Fevmzj9IgTRsFWXB~OJIkSXe~S~ANRILiBiZYKy510Uh5zFLMFMmvZJ3LSwCVaROfsii7XyMpHQM8GNdGdQsxt8sV~0JIX2wFyQmk~9GfJ~EMKW5Y4gATn-16CwZkyKKQzKYm20Ybz-VPNRmjZeU3RTCj2YDlU315LkGyB7m4xEs25ouEs6QC4iQYrRhmDiIcalRGoY9-buPAcqrrSfqP8s4sSbw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
--
+- Internado en Carlos Paz con BAV de alto grado
