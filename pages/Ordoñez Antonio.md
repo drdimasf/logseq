@@ -4,3 +4,4 @@
   metformina 
   ecg sinusal ev en bigeminia 
   Eco dai leve fe normal
+- Le vieron TV en Holter
